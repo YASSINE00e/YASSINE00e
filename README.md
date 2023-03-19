@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YASSINE00e</h1>
 <h3 align="center">A passionate gaming developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at [jemi.so/yassine00e](jemi.so/yassine00e)
 
