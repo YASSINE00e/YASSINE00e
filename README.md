@@ -1,4 +1,3 @@
-[![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-c53fdbc66c.gif)](jemi.so/yassine00e)
 <h1 align="center">Hi 👋, I'm YASSINE00e</h1>
 <h3 align="center">A passionate gaming developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
