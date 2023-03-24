@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm YASSINE00e</h1>
 
-Hello there! My name is [Yassine Azzouz](https://github.com/YASSINE00e), also known as <strong>Yassine00e<strong>. I am a computer science major from the Faculty of Sciences of Monastir. My passion for game development started when I was very young and I have been exploring this field ever since. I find it fascinating to create immersive worlds and characters that can transport players to different dimensions. In addition to my studies, I have been honing my game development skills through various projects and collaborations with other like-minded individuals. I am constantly seeking to learn and improve in this field, and I am excited to see where this journey takes me.
+Hello there! My name is [Yassine Azzouz](https://github.com/YASSINE00e), also known as <strong>Yassine00e</strong>. I am a computer science major from the Faculty of Sciences of Monastir. My passion for game development started when I was very young and I have been exploring this field ever since. I find it fascinating to create immersive worlds and characters that can transport players to different dimensions. In addition to my studies, I have been honing my game development skills through various projects and collaborations with other like-minded individuals. I am constantly seeking to learn and improve in this field, and I am excited to see where this journey takes me.
 
 - 👨‍💻 All of my projects are available at [jemi.so/yassine00e](jemi.so/yassine00e)
 - 💬 Ask me about anything, I am happy to help
