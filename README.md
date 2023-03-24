@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm YASSINE00e</h1>
-<h3>A passionate gaming developer from Tunisia</h3>
+
+Hello there! My name is [Yassine Azzouz](https://github.com/YASSINE00e), also known as <strong>Yassine00e<strong>. I am a computer science major from the Faculty of Sciences of Monastir. My passion for game development started when I was very young and I have been exploring this field ever since. I find it fascinating to create immersive worlds and characters that can transport players to different dimensions. In addition to my studies, I have been honing my game development skills through various projects and collaborations with other like-minded individuals. I am constantly seeking to learn and improve in this field, and I am excited to see where this journey takes me.
 
 - 👨‍💻 All of my projects are available at [jemi.so/yassine00e](jemi.so/yassine00e)
 - 💬 Ask me about anything, I am happy to help
@@ -19,4 +20,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassine00e&show_icons=true&locale=en&theme=dark" alt="yassine00e" /></p>
+<p>&nbsp;<img align="center" width="100%" height="170px" src="https://github-readme-stats.vercel.app/api?username=yassine00e&show_icons=true&locale=en&theme=dark" alt="yassine00e" /></p>
