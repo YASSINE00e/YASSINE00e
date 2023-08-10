@@ -2,9 +2,9 @@
 
 Hello there! My name is [Yassine Azzouz](https://github.com/YASSINE00e), also known as <strong>YASSINE00e</strong>. I am a computer science major from the Faculty of Sciences of Monastir. My passion for game development started when I was very young and I have been exploring this field ever since. I find it fascinating to create immersive worlds and characters that can transport players to different dimensions. In addition to my studies, I have been honing my game development skills through various projects and collaborations with other like-minded individuals. I am constantly seeking to learn and improve in this field, and I am excited to see where this journey takes me.
 
-- :telescope: I’m currently working on [new game](https://github.com/YASSINE00e)
+- :telescope: I’m currently working on [ParkourBoy](https://github.com/YASSINE00e/ParkourBoy)
 - :seedling: I'm looking to collaborate on open source projects
-- 👨‍💻 All of my projects are available at [jemi.so/yassine00e](jemi.so/yassine00e)
+- 👨‍💻 All of my projects are available at [yassine00e.me](https://www.yassine00e.me)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: <a href="mailto:yassine00e@gmail.com">Gmail</a>
 
