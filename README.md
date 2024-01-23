@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm YASSINE00e</h1><img align="right" src="https://komarev.com/ghpvc/?username=yassine00e" alt="YASSINE00e" />
+<h1 align="center">Hi!👋, I'm Yassine Azzouz</h1>
+<img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 
 
 - :telescope: I’m currently working on [ParkourBoy](https://github.com/YASSINE00e/ParkourBoy)
@@ -7,25 +8,28 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: <a href="mailto:yassine00e@gmail.com">Gmail</a>
 
-<a href="mailto:yassine00e@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/yassine00e" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://yassine00e.me" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> 
-  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,py,unity,ps)](https://skillicons.dev)
 
 
-<h3 align="left">Stats:</h3>
 
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=yassine00e&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YASSINE00e&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="YASSINE00e" /></p>
+</div>
 
-<img width=390 src="https://streak-stats.demolab.com/?user=yassine00e&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<div align="center">
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YASSINE00e&theme=github-dark-blue&hide_border=true" alt="Github streak" />
+</p>
+</div>
 
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine00e&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h3 align="center">Connect with me!</h3>
+<p align="center">
+<a href="https://linkedin.com/in/YASSINE00e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YASSINE00e" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yassine00e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yassine00e" height="30" width="40" /></a>
+<a href="https://twitter.com/YASSINE00e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YASSINE00e" height="30" width="40" /></a>
+<a href="https://instagram.com/yassineeazzouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YASSINE00e" height="30" width="40" /></a>
+<a href="https://discord.gg/TzQas8K4VF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YASSINE00e" height="30" width="40" /></a>
+</p>
