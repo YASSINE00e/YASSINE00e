@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 
 
-- :telescope: I’m currently working on [ParkourBoy](https://github.com/YASSINE00e/ParkourBoy)
+- :telescope: I’m currently working on [School Escape](https://github.com/YASSINE00e/School-Escape)
 - :seedling: I'm looking to collaborate on open source projects
 - 👨‍💻 All of my projects are available at [yassine00e.me](https://www.yassine00e.me)
 - 💬 Ask me about anything, I am happy to help
