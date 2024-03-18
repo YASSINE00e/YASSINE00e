@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,unity,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,react,dotnet,py,unity,ps)](https://skillicons.dev)
 
 
 
