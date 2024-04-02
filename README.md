@@ -21,7 +21,7 @@
 
 <div align="center">
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YASSINE00e&theme=github-dark-blue&hide_border=true" alt="Github streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSINE00e&theme=github-dark-blue&hide_border=true" alt="YASSINE00e" />
 </p>
 </div>
 
