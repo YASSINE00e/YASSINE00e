@@ -2,9 +2,9 @@
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 
 
-- :telescope: I’m currently working on [School Escape](https://github.com/YASSINE00e/School-Escape)
+- :telescope: I’m currently working on [elKarni](https://elkarni.vercel.app)
 - :seedling: I'm looking to collaborate on open source projects
-- 👨‍💻 All of my projects are available at [yassine00e.me](https://www.yassine00e.me)
+- 👨‍💻 All of my projects are available at [yassine00e.me](https://www.yassine00e.vercel.app)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: <a href="mailto:yassine00e@gmail.com">Gmail</a>
 
