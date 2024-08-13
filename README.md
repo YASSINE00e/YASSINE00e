@@ -4,7 +4,7 @@
 
 - :telescope: I’m currently working on [elKarni](https://elkarni.vercel.app)
 - :seedling: I'm looking to collaborate on open source projects
-- 👨‍💻 All of my projects are available at [yassine00e.me](https://www.yassine00e.vercel.app)
+- 👨‍💻 All of my projects are available at [yassine00e.me](https://yassine00e.vercel.app/)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: <a href="mailto:yassine00e@gmail.com">Gmail</a>
 
