@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 
 
-- :telescope: I’m currently working on [elKarni](https://elkarni.vercel.app)
+- :telescope: I’m currently working on [Funtopia](https://funtopiagame.vercel.app)
 - :seedling: I'm looking to collaborate on open source projects
 - 👨‍💻 All of my projects are available at [yassine00e.me](https://yassine00e.vercel.app/)
 - 💬 Ask me about anything, I am happy to help
