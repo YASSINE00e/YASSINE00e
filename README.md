@@ -9,10 +9,6 @@
 - 📫 How to reach me: <a href="mailto:yassine00e@gmail.com">Gmail</a>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=cs,react,dotnet,py,unity,ps)](https://skillicons.dev)
-
 
 
 <div align="center">
